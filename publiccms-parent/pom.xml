@@ -49,7 +49,7 @@
 		<!-- http://mvnrepository.com/artifact/org.mybatis.generator/mybatis-generator-core -->
 		<version.mybatisGenerator>1.4.0</version.mybatisGenerator>
         <!-- https://mvnrepository.com/artifact/com.github.pagehelper/pagehelper -->
-        <version.pagehelper>5.2.0</version.pagehelper>
+        <version.pagehelper>5.3.1</version.pagehelper>
         <!-- https://mvnrepository.com/artifact/org.mybatis.dynamic-sql/mybatis-dynamic-sql -->
         <version.dynamicSql>1.2.0</version.dynamicSql>
         <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-core -->
