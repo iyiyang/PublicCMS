@@ -25,7 +25,7 @@
         <version.spring>5.2.10.RELEASE</version.spring>
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
         <!-- https://projects.spring.io/spring-boot/ -->
-        <version.springBoot>2.3.5.RELEASE</version.springBoot>
+        <version.springBoot>3.2.10</version.springBoot>
         <!-- http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
         <!-- http://hc.apache.org/downloads.cgi -->
         <version.httpclient>4.5.12</version.httpclient>
@@ -61,7 +61,7 @@
         <!-- https://mvnrepository.com/artifact/com.zaxxer/HikariCP -->
         <version.hikariCP>3.4.5</version.hikariCP>
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <version.mysql>8.0.22</version.mysql>
+        <version.mysql>8.0.31</version.mysql>
         <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
         <version.poi>4.1.2</version.poi>
         <!-- http://mvnrepository.com/artifact/commons-fileupload/commons-fileupload -->
